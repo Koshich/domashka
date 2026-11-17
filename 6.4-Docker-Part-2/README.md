@@ -27,3 +27,15 @@ As part of the homework assignment I will set up a multi-container application u
 - Task 6. Launch settings
 - Task 7. Work verification
 - Task 8. Container stop
+
+### Задание 1. Docker Compose
+
+Docker Compose - это инструмент для управления многоконтейнерными приложениями Docker.
+
+С его помощью можно описать необходимые сервисы, сети, тома и параметры запуска в 
+одном YAML-файле, а затем запускать всю инфраструктуру одной лишь командой. 
+
+Лично мне Docker Compose помогает экономить время, и быстро запускать и 
+останавливать приложения и использовать одинаковую конфигурацию на разных компьютерах.
+
+
