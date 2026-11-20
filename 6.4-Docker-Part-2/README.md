@@ -56,5 +56,10 @@ Docker Compose - это инструмент для управления мно�
 Проверено получение метрики в Prometheus и отображение графика в Grafana.
 
 
+### Скриншоты выполнения задания
+
+1. `grafana.png` — график метрики menschikova_ed в Grafana.
+2. `docker-ps.png` — работающие контейнеры Prometheus, Pushgateway и Grafana.
+3. `docker-compose-down.png` — остановка и удаление контейнеров командой Docker Compose.
 
 
