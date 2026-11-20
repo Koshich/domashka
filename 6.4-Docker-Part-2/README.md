@@ -58,8 +58,8 @@ Docker Compose - это инструмент для управления мно�
 
 ### Скриншоты выполнения задания
 
-1. `grafana.png` — график метрики menschikova_ed в Grafana.
-2. `docker-ps.png` — работающие контейнеры Prometheus, Pushgateway и Grafana.
-3. `docker-compose-down.png` — остановка и удаление контейнеров командой Docker Compose.
+1. `Снимок экрана 2026-11-20 в 23.29.29.png` — график метрики menschikova_ed в Grafana.
+2. `Снимок экрана 2026-11-20 в 23.45.08.png` — работающие контейнеры Prometheus, Pushgateway и Grafana.
+3. `Снимок экрана 2026-11-20 в 23.46.23.png` — остановка и удаление контейнеров командой Docker Compose.
 
 
